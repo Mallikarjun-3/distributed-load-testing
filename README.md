@@ -123,5 +123,3 @@ This solution collects anonymized operational metrics to help AWS improve the qu
 
 ---
 
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.<br />
-SPDX-License-Identifier: Apache-2.0
